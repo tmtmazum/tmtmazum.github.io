@@ -1,0 +1,1 @@
+if(navigator.serviceWorker){navigator.serviceWorker.register("/tmtmazum.bitbucket.org/sw.js",{scope:"/tmtmazum.bitbucket.org/"});}
